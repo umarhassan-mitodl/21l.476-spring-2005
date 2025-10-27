@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "d757d6f6-db27-5217-eef1-6a87e1c31515",
+  "instructors": {
+    "content": [
+      "2286868f-6668-7932-16e4-f8ff30cdde47"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "02348254-4907-4665-ee97-dca524152f54",
+    "website": "21l-476-romantic-poetry-spring-2005"
+  },
+  "course_title": "Romantic Poetry",
+  "course_description": "This course examines readings of the major British Romantic poets (Blake, Wordsworth, Coleridge, Byron, Scott, Shelley, and Keats) and important fiction writers (Mary Shelley and Walter Scott). Attention is also given to literary and historical contexts.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.476",
+  "course_image_thumbnail": {
+    "content": "b12eca41-35d1-105a-f1c0-e885c56a0aa3",
+    "website": "21l-476-romantic-poetry-spring-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "32726ebe-94cc-44e0-9d86-ff893ff38e12",
+  "site_short_id": "21l.476-spring-2005",
+  "site_url_path": "courses/21l-476-romantic-poetry-spring-2005",
+  "title": "Course Metadata"
+}
